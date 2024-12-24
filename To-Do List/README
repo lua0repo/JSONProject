@@ -1,0 +1,56 @@
+To-Do List represented in JSON format. Each task has properties such as "task", "status", and "priority".
+
+json
+
+''''''''''''''''''''''''''''''''''''''''
+{
+  "toDoList": [
+    {
+      "task": "Complete project report",
+      "status": "in progress",
+      "priority": "high"
+    },
+    {
+      "task": "Grocery shopping",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "task": "Schedule dentist appointment",
+      "status": "pending",
+      "priority": "low"
+    },
+    {
+      "task": "Prepare presentation for meeting",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "task": "Read a book",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "task": "Exercise for 30 minutes",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "task": "Clean the house",
+      "status": "pending",
+      "priority": "low"
+    }
+  ]
+}
+''''''''''''''''''''''''''''''''''''''''
+
+
+Explanation of the JSON Structure:
+The root object contains a single property, toDoList, which is an array of task objects.
+
+Each task object has three properties:
+task: A string describing the task.
+
+status: A string indicating the current status of the task (e.g., "pending", "in progress", "completed").
+priority: A string representing the priority level of the task (e.g., "high", "medium", "low").
+You can easily modify this structure to add, remove, or update tasks as needed!
