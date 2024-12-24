@@ -1,0 +1,39 @@
+{
+  "toDoList": [
+    {
+      "task": "Complete project report",
+      "status": "in progress",
+      "priority": "high"
+    },
+    {
+      "task": "Grocery shopping",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "task": "Schedule dentist appointment",
+      "status": "pending",
+      "priority": "low"
+    },
+    {
+      "task": "Prepare presentation for meeting",
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "task": "Read a book",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "task": "Exercise for 30 minutes",
+      "status": "completed",
+      "priority": "medium"
+    },
+    {
+      "task": "Clean the house",
+      "status": "pending",
+      "priority": "low"
+    }
+  ]
+}
