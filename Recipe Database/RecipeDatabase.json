@@ -1,0 +1,83 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "serving_size": 4,
+      "ingredients": [
+        "200g spaghetti",
+        "100g pancetta",
+        "2 large eggs",
+        "50g Pecorino Romano cheese",
+        "50g Parmesan cheese",
+        "2 cloves garlic",
+        "Salt and pepper to taste",
+        "1 tablespoon olive oil"
+      ],
+      "instructions": [
+        "Cook the spaghetti in salted boiling water according to package instructions.",
+        "In a pan, heat olive oil and fry the pancetta until crispy.",
+        "Add minced garlic and cook for another minute.",
+        "Whisk eggs, Pecorino, Parmesan, salt, and pepper in a bowl.",
+        "Drain the pasta, reserving a bit of cooking water.",
+        "Combine the pasta with pancetta and garlic, remove from heat.",
+        "Quickly stir in the egg and cheese mixture, adding pasta water to create a creamy sauce.",
+        "Serve immediately with extra cheese and black pepper."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Vegetable Stir Fry",
+      "serving_size": 2,
+      "ingredients": [
+        "1 cup broccoli florets",
+        "1 red bell pepper, sliced",
+        "1 carrot, julienned",
+        "1/2 onion, sliced",
+        "2 tablespoons soy sauce",
+        "1 tablespoon sesame oil",
+        "1 tablespoon olive oil",
+        "1 teaspoon grated ginger",
+        "1 teaspoon garlic, minced",
+        "1 tablespoon sesame seeds",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Heat olive oil in a large pan over medium-high heat.",
+        "Add onion, ginger, and garlic, and sauté for 2 minutes.",
+        "Add broccoli, red pepper, and carrot, and stir-fry for about 5-7 minutes.",
+        "Pour in soy sauce and sesame oil, stir well to coat the vegetables.",
+        "Continue stir-frying for an additional 2 minutes.",
+        "Season with salt and pepper, then sprinkle sesame seeds on top.",
+        "Serve hot with steamed rice or noodles."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chocolate Chip Cookies",
+      "serving_size": 12,
+      "ingredients": [
+        "1 cup butter, softened",
+        "1 cup white sugar",
+        "1 cup brown sugar",
+        "2 large eggs",
+        "2 teaspoons vanilla extract",
+        "3 cups all-purpose flour",
+        "1 teaspoon baking soda",
+        "1/2 teaspoon salt",
+        "2 cups chocolate chips"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F (175°C).",
+        "Cream together butter, white sugar, and brown sugar until smooth.",
+        "Add eggs and vanilla, beating until well combined.",
+        "In a separate bowl, mix flour, baking soda, and salt.",
+        "Gradually add the dry ingredients to the butter mixture, mixing well.",
+        "Stir in chocolate chips.",
+        "Scoop dough onto baking sheets, spacing about 2 inches apart.",
+        "Bake for 10-12 minutes or until golden brown.",
+        "Allow to cool on the baking sheet for 5 minutes before transferring to a wire rack."
+      ]
+    }
+  ]
+}
