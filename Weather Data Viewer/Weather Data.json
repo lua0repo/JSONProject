@@ -1,0 +1,63 @@
+{
+  "location": {
+    "city": "New York",
+    "country": "USA",
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  "date": "2025-02-12",
+  "current_weather": {
+    "temperature": {
+      "value": 7.5,
+      "unit": "Celsius"
+    },
+    "conditions": "Cloudy",
+    "humidity": {
+      "value": 68,
+      "unit": "Percent"
+    },
+    "wind": {
+      "speed": 12.5,
+      "unit": "km/h",
+      "direction": "North-East"
+    }
+  },
+  "forecast": [
+    {
+      "date": "2025-02-13",
+      "temperature": {
+        "min": 4,
+        "max": 9,
+        "unit": "Celsius"
+      },
+      "conditions": "Partly cloudy",
+      "humidity": {
+        "value": 60,
+        "unit": "Percent"
+      },
+      "wind": {
+        "speed": 15,
+        "unit": "km/h",
+        "direction": "East"
+      }
+    },
+    {
+      "date": "2025-02-14",
+      "temperature": {
+        "min": 3,
+        "max": 8,
+        "unit": "Celsius"
+      },
+      "conditions": "Rainy",
+      "humidity": {
+        "value": 80,
+        "unit": "Percent"
+      },
+      "wind": {
+        "speed": 18,
+        "unit": "km/h",
+        "direction": "South-East"
+      }
+    }
+  ]
+}
